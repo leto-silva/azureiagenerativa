@@ -1,7 +1,7 @@
 # azureiagenerativa
 Azure - Usando Ia Generativa Copilot
 
-Fiz uso da copilot - Ia Generativa da Microsoft.
+Fiz uso da copilot - Ia Generativa da Microsoft acessando o endereço [https://copilot.microsoft.com/].
 Após logar com a conta free tier pude usar a copilot para gerar imagens,
 Digitei no prompt: "crie a imagem da mulher mais linda do mundo"
 ![image](https://github.com/leto-silva/azureiagenerativa/assets/34771524/c9518596-9085-4584-8ad5-e1d74ecd6e9c)
